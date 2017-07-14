@@ -1,24 +1,19 @@
+# Project Management Application
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Tracking the projects and management group of people
 
+https://saas-app-supachai.herokuapp.com/
 
-Welcome to your Rails project on Cloud9 IDE!
+This application was build by Ruby on Rails
 
-To get started, just do the following:
+## Get Start
+* Go to https://saas-app-supachai.herokuapp.com/
+* Select the plan and sign up. if you select premium plan, you can make a payment via using credit card from https://stripe.com/docs/testing
+* Confirm your account via email
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://saas-app-jordekdom.c9users.io/).
+## Functionality
+* New Project : create new project
+* Add Members : invite new user via email. The new user will comfirm his account via email, then create his password
+* Change Plan : Change Plan from free to premiun. you can make a payment via using credit card from https://stripe.com/docs/testing
+* Edit Project User : Add and Remove members in to the projects
 
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
